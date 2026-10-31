@@ -208,7 +208,10 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 🏆 Hackathon Acknowledgements
 
-Built for **Hacktoberfest Hack Day Bengaluru x Devforge by Newton School of Technology** on Major League Hacking (MLH).
+Built during **Hacktoberfest 2026** for:
+- **Hacktoberfest Hack Day Bengaluru x AWS SBG RVU** (RV University, Bengaluru)
+- **Hacktoberfest Hack Day x Devforge** (Newton School of Technology)
+
 - **Primary Category:** Best Open-Source AI Project (DigitalOcean Track)
-- **AI Model Acceleration:** Gemma 4 / Gemini API
+- **AI Model Acceleration:** Best Use of Gemma 4 / Gemini API
 - **AI Coding Companion:** Antigravity (powered by Gemini 3.8 Flash)
